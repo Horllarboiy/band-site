@@ -15,12 +15,18 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@ant-design/react-slick": "^1.1.2",
     "autoprefixer": "^10.4.20",
+    "embla-carousel-autoplay": "^8.2.0",
+    "embla-carousel-react": "^8.2.0",
     "framer-motion": "^11.3.24",
     "gatsby": "^5.13.5",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-postcss": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
     "gatsby-source-sanity": "^7.9.1",
+    "gatsby-transformer-sharp": "^5.13.1",
     "postcss": "^8.4.41",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
